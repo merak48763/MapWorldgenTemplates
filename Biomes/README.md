@@ -4,7 +4,7 @@ Biome templates.
 
 ## `default`
 
-Target game version: 1.21.11
+Target game version: 1.21.11, 26.1.x
 
 - Has no environment attribute overrides.
 - Natural mob spawning is disabled.
@@ -31,6 +31,7 @@ Some biomes directly specify grass color and foliage color.
 | Badlands | `#90814d` | `#9e814d` | - |
 | Cherry Grove | `#b6db61` | `#b6db61` | - |
 | Pale Garden | `#778272` | `#878d76` | `#a0a69c` |
+| Sulfur Caves | `#aba64f` | - | - |
 | Swamp | Hardcoded | `#6a7039` | `#7b5334` |
 | Dark Forest | Hardcoded | - | `#7b5334` |
 
@@ -43,6 +44,7 @@ The default water fog color is `#050533`. Most biomes don't override it.
 | Most Biomes | `#3f76e4` | - | - |
 | Cherry Grove | `#5db7ef` | `#5db7ef` | - |
 | Pale Garden | `#76889d` | `#556980` | - |
+| Sulfur Caves | `#34bf89` | `#17543c` | - |
 | Swamp | `#617b64` | `#232317` | End distance 0.85x |
 | Mangrove Swamp | `#3a7a6a` | `#4d7a60` | End distance 0.85x |
 | Warm Ocean | `#43d5ee` | `#041f33` | - |
