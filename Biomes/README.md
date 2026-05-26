@@ -61,6 +61,7 @@ The default water fog color is `#050533`. Most biomes don't override it.
 | Desert | `#6eb1ff` | `#c0d8ff` |
 | Frozen Peaks | `#859dff` | `#c0d8ff` |
 | Pale Garden | `#b9b9b9` | `#817770` |
+| Sulfur Caves | `#78a7ff` | `#8cb831` |
 | Nether Wastes | - | `#330808` |
 | Crimson Forest | - | `#330303` |
 | Warped Forest | - | `#1a051a` |
