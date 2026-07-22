@@ -25,7 +25,7 @@
       "keyframes": [{"ticks": 0, "value": false}]
     },
     "gameplay/sky_light_level": {
-      "keyframes": [{"ticks": 0, "value": 15}]
+      "keyframes": [{"ticks": 0, "value": 4}]
     },
     "visual/moon_angle": {
       "keyframes": [{"ticks": 0, "value": 180}]
