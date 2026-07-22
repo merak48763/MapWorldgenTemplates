@@ -32,6 +32,7 @@ Some biomes directly specify grass color and foliage color.
 | Cherry Grove | `#b6db61` | `#b6db61` | - |
 | Pale Garden | `#778272` | `#878d76` | `#a0a69c` |
 | Sulfur Caves | `#aba64f` | - | - |
+| Dappled Forest | `#df6827` | `#e68e30` | `#8c3a04` |
 | Swamp | Hardcoded | `#6a7039` | `#7b5334` |
 | Dark Forest | Hardcoded | - | `#7b5334` |
 
@@ -45,6 +46,7 @@ The default water fog color is `#050533`. Most biomes don't override it.
 | Cherry Grove | `#5db7ef` | `#5db7ef` | - |
 | Pale Garden | `#76889d` | `#556980` | - |
 | Sulfur Caves | `#34bf89` | `#17543c` | - |
+| Dappled Forest | `#375154` | `#375154` | - |
 | Swamp | `#617b64` | `#232317` | End distance 0.85x |
 | Mangrove Swamp | `#3a7a6a` | `#4d7a60` | End distance 0.85x |
 | Warm Ocean | `#43d5ee` | `#041f33` | - |
@@ -64,6 +66,7 @@ It's recommended to apply the modifiers in timelines.
 | Frozen Peaks | `#859dff` | `#c0d8ff` |
 | Pale Garden | `#b9b9b9` | `#817770` |
 | Sulfur Caves | `#78a7ff` | `#8cb831` |
+| Dappled Forest | `#7ca3ff` | `#ccd8e2` |
 | Nether Wastes | - | `#330808` |
 | Crimson Forest | - | `#330303` |
 | Warped Forest | - | `#1a051a` |
@@ -83,7 +86,7 @@ Although particle config allows multiple particle entries, vanilla biomes only u
 
 ### Bonemeal Flowers
 
-| Placed Feature | Flower Types |
+| Feature | Flower Types |
 | --- | --- |
 | `flower_default` | Poppy <br /> Dandelion |
 | `flower_cherry` | Pink Petals |
