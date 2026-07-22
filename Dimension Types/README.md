@@ -5,13 +5,13 @@ So pick a dimension type template and paste it into `data/minecraft/dimension_ty
 
 ## `vanilla_overworld`
 
-Target game version: 1.21.11, 26.1.x
+Target game version: 1.21.11, 26.1.x, 26.2
 
 - The vanilla overworld preset.
 
 ## `empty`
 
-Target game version: 1.21.11, 26.1.x
+Target game version: 1.21.11, 26.1.x, 26.2
 
 - Modified from vanilla overworld.
 - Ambient sound & background music are removed.

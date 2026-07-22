@@ -2,7 +2,7 @@
 
 ## `eternal_night`
 
-Target game version: 1.21.11, 26.1.x
+Target game version: 1.21.11, 26.1.x, 26.2
 
 - Sleeping doesn't change spawn point.
 - Eyeblossoms stay in their current state.
@@ -19,7 +19,7 @@ Target game version: 1.21.11, 26.1.x
 
 ## `eternal_day`
 
-Target game version: 1.21.11, 26.1.x
+Target game version: 1.21.11, 26.1.x, 26.2
 
 - Similar to the eternal night template.
 - **Visually** looks like noon.
