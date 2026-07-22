@@ -52,8 +52,10 @@ The default water fog color is `#050533`. Most biomes don't override it.
 
 ### Common environment color parameters
 
-- Sky color is multiplied by `#0f0f16` during night.
-- Fog color is always `#000000` during night.
+- Sky color is always `#000000` during night.
+- Fog color is multiplied by `#0f0f16` during night.
+
+It's recommended to apply the modifiers in timelines.
 
 | Biome | Sky Color | Fog Color |
 | --- | --- | --- |

@@ -1,0 +1,58 @@
+{
+  "tracks": {
+    "audio/firefly_bush_sounds": {
+      "keyframes": [{"ticks": 0, "value": true}]
+    },
+    "gameplay/bed_rule": {
+      "keyframes": [
+        {
+          "ticks": 0,
+          "value": {
+            "can_set_spawn": "never",
+            "can_sleep": "always"
+          }
+        }
+      ]
+    },
+    "gameplay/bees_stay_in_hive": {
+      "keyframes": [{"ticks": 0, "value": true}]
+    },
+    "gameplay/creaking_active": {
+      "keyframes": [{"ticks": 0, "value": true}]
+    },
+    "gameplay/monsters_burn": {
+      "keyframes": [{"ticks": 0, "value": false}]
+    },
+    "gameplay/sky_light_level": {
+      "keyframes": [{"ticks": 0, "value": 15}]
+    },
+    "visual/fog_color": {
+      "modifier": "multiply",
+      "keyframes": [{"ticks": 0, "value": "#0f0f16"}]
+    },
+    "visual/moon_angle": {
+      "keyframes": [{"ticks": 0, "value": 0}]
+    },
+    "visual/sky_color": {
+      "keyframes": [{"ticks": 0, "value": "#000000"}]
+    },
+    "visual/sky_light_color": {
+      "modifier": "multiply",
+      "keyframes": [{"ticks": 0, "value": "#7a7aff"}]
+    },
+    "visual/sky_light_factor": {
+      "modifier": "multiply",
+      "keyframes": [{"ticks": 0, "value": 0.24}]
+    },
+    "visual/star_angle": {
+      "keyframes": [{"ticks": 0, "value": 180}]
+    },
+    "visual/star_brightness": {
+      "modifier": "maximum",
+      "keyframes": [{"ticks": 0, "value": 0.5}]
+    },
+    "visual/sun_angle": {
+      "keyframes": [{"ticks": 0, "value": 180}]
+    }
+  }
+}

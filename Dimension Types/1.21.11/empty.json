@@ -1,0 +1,24 @@
+{
+  "attributes": {
+    "gameplay/can_pillager_patrol_spawn": false,
+    "gameplay/can_start_raid": false,
+    "gameplay/piglins_zombify": false,
+    "visual/fog_color": "#c0d8ff",
+    "visual/sky_color": "#78a7ff"
+  },
+  "timelines": [],
+  "has_skylight": true,
+  "has_ceiling": false,
+  "coordinate_scale": 1,
+  "ambient_light": 0,
+  "logical_height": 384,
+  "infiniburn": "#infiniburn_overworld",
+  "min_y": -64,
+  "height": 384,
+  "monster_spawn_light_level": {
+    "type": "uniform",
+    "max_inclusive": 7,
+    "min_inclusive": 0
+  },
+  "monster_spawn_block_light_limit": 0
+}
