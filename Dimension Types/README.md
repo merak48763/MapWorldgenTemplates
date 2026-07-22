@@ -21,3 +21,10 @@ Target game version: 1.21.11, 26.1.x, 26.2
 - Piglins and hoglins don't zombify.
 - Raid is disabled.
 - Supposed to be combined with custom timelines.
+
+## `math`
+
+Target game version: 26.1.x, 26.2
+
+- Minimal dimension type
+- Can be used to perform the "cloud computing" math trick
