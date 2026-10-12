@@ -5,13 +5,13 @@ So pick a dimension type template and paste it into `data/minecraft/dimension_ty
 
 ## `vanilla_overworld`
 
-Target game version: 1.21.11, 26.1.x, 26.2
+Target game version: 1.21.11, 26.1.x, 26.2, 26.3
 
 - The vanilla overworld preset.
 
 ## `empty`
 
-Target game version: 1.21.11, 26.1.x, 26.2
+Target game version: 1.21.11, 26.1.x, 26.2, 26.3
 
 - Modified from vanilla overworld.
 - Ambient sound & background music are removed.
@@ -24,7 +24,7 @@ Target game version: 1.21.11, 26.1.x, 26.2
 
 ## `math`
 
-Target game version: 26.1.x, 26.2
+Target game version: 26.1.x, 26.2, 26.3
 
 - Minimal dimension type
 - Can be used to perform the "cloud computing" math trick

@@ -4,7 +4,7 @@ Biome templates.
 
 ## `default`
 
-Target game version: 1.21.11, 26.1.x, 26.2
+Target game version: 1.21.11, 26.1.x, 26.2, 26.3
 
 - Has no environment attribute overrides.
 - Natural mob spawning is disabled.
