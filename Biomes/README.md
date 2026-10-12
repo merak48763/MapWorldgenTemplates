@@ -47,6 +47,7 @@ The default water fog color is `#050533`. Most biomes don't override it.
 | Pale Garden | `#76889d` | `#556980` | - |
 | Sulfur Caves | `#34bf89` | `#17543c` | - |
 | Dappled Forest | `#375154` | `#375154` | - |
+| Ice Caves | `#14559b` | `#14559b` | - |
 | Swamp | `#617b64` | `#232317` | End distance 0.85x |
 | Mangrove Swamp | `#3a7a6a` | `#4d7a60` | End distance 0.85x |
 | Warm Ocean | `#43d5ee` | `#041f33` | - |
@@ -67,6 +68,7 @@ It's recommended to apply the modifiers in timelines.
 | Pale Garden | `#b9b9b9` | `#817770` |
 | Sulfur Caves | `#78a7ff` | `#8cb831` |
 | Dappled Forest | `#7ca3ff` | `#ccd8e2` |
+| Ice Caves | `#7fa1ff` | `#14559b` |
 | Nether Wastes | - | `#330808` |
 | Crimson Forest | - | `#330303` |
 | Warped Forest | - | `#1a051a` |
