@@ -74,6 +74,9 @@ It's recommended to apply the modifiers in timelines.
 | Warped Forest | - | `#1a051a` |
 | Soul Sand Valley | - | `#1b4745` |
 | Basalt Deltas | - | `#685f70` |
+| End biomes[^1] | `#000000` | `#181318` |
+
+[^1]: Only after the fix of [MC-304895](https://mojira.dev/MC-304895) in 26.4 dev cycle.
 
 ### Biome Particles
 
